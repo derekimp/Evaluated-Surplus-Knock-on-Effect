@@ -1,0 +1,5 @@
+﻿  FRE6883_final_Project.cpp
+C:\Users\User\Desktop\lwp\zxh_12_12\FRE6883_final_Project\group.h(22,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\lwp\zxh_12_12\FRE6883_final_Project\YahooData.h(398,8): warning C4101: 'fp': unreferenced local variable
+C:\Users\User\Desktop\lwp\zxh_12_12\FRE6883_final_Project\FRE6883_final_Project.cpp(80,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FRE6883_final_Project.vcxproj -> C:\Users\User\Desktop\lwp\zxh_12_12\FRE6883_final_Project\x64\Debug\FRE6883_final_Project.exe
